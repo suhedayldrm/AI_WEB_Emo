@@ -14,7 +14,6 @@ state_abbreviations = {
     "OREGON": "OR", "PENNSYLVANIA": "PA", "RHODE ISLAND": "RI", "SOUTH CAROLINA": "SC",
     "SOUTH DAKOTA": "SD", "TENNESSEE": "TN", "TEXAS": "TX", "UTAH": "UT",
     "VERMONT": "VT", "VIRGINIA": "VA", "WASHINGTON": "WA", "WEST VIRGINIA": "WV",
-    "WISCONSIN": "WI", "WYOMING": "WY",
 }
 
 def clean_and_categorize_states(df, location_column):
